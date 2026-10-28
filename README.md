@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Landmark Global is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://landmarkglobal.com/
+Landmark Global provides cross‑border e‑commerce logistics, offering parcel delivery, customs clearance, fulfillment, and returns solutions across Europe, Asia, the US and Canada. Their platform integrates with merchants via APIs and a technology suite called Mercury, helping businesses expand globally with streamlined shipping and tracking services.
+
+**Areas:** Company · Logistics · E-commerce · Shipping · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://landmarkglobal.com/)
+- [Documentation](https://landmarkglobal.com/eu/en/integrations-technology/)
+- [Getting started](https://landmarkglobal.com/eu/en/about-us/)
+- [API reference](https://mercury.landmarkglobal.com/)
+- [Support](https://landmarkglobal.com/eu/en/customer-support/)
+- [Blog](https://landmarkglobal.com/eu/en/news-insights/)
+- [Terms of service](https://landmarkglobal.com/eu/en/terms-and-conditions/)
+- [Privacy policy](https://landmarkglobal.com/eu/en/privacy-policy/)
+- [GitHub](https://github.com/landmarkglobal)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/landmark-global/](https://apis.io/providers/landmark-global/).
